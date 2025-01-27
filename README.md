@@ -1,4 +1,4 @@
-# Customer Analysis Project
+# Data Science Assignment: eCommerce Transactions Dataset
 
 ## Table Of Contents
 
@@ -10,7 +10,8 @@
 - [Requirements](#requirements)
 
 ## Project Overview
-Analysis of customer data including exploratory analysis, lookalike customer identification, and customer segmentation.
+Provided with an eCommerce Transactions dataset consisting of three files: Customers.csv, Products.csv, and Transactions.csv. Performed
+exploratory data analysis (EDA), build predictive models, and derive actionable insights. 
 ## Data Files
 
 * Customers.csv (CustomerID, CustomerName, Region, SignupDate)[Download here](https://drive.google.com/file/d/1bu_--mo79VdUG9oin4ybfFGRUSXAe-WE/view?usp=sharing)
